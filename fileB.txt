@@ -1,1 +1,2 @@
 This is fileB
+Trying to make a change to add to the github using cmd line in vscode
